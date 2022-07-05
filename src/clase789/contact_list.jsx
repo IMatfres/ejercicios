@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-// * importamos la hoja de estilos de task.scss
 import '../styles/contact.scss';
 import { Contacto } from '../models/contacto.class';
 import ContactForm from './contacForm';
